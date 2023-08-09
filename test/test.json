@@ -1,0 +1,20 @@
+{
+    "results":[
+        {
+            "location":{
+                "id":"WTW3SJ5ZBJUY",
+                "name":"上海",
+                "country":"CN",
+                "path":"上海,上海,中国",
+                "timezone":"Asia/Shanghai",
+                "timezone_offset":"+08:00"
+            },
+            "now":{
+                "text":"小雨",
+                "code":"13",
+                "temperature":"10"
+            },
+            "last_update":"2022-03-31T18:18:57+08:00"
+        }
+    ]
+}
